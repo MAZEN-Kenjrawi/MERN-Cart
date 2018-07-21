@@ -1,0 +1,1 @@
+mongodb://<dbuser>:<dbpassword>@ds131800.mlab.com:31800/mern_shopping_list
